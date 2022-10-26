@@ -12,3 +12,6 @@ sudo apt-get install shellcheck -y
 
 # UBUNTU 22.04 SERVER:
 sudo apt install open-vm-tools -y
+
+# fish shell - shell autosuggestion
+sudo apt-get install fish -y
