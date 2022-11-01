@@ -15,5 +15,19 @@ vagrant plugin install vagrant-vmware-desktop
 
 ```
 
+### VirtualBox Provider
+
+
+#### 前提条件
+
+1. Install VirtualBox
+2. Install Plugin virtualbox from <https://www.virtualbox.org/wiki/Downloads>
+
+```sh
+
+vagrant plugin install virtualbox
+
+```
+
 ## Box
 
